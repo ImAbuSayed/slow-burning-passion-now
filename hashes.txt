@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Slow Burning Passion Now
+
+This log tracks the cryptographic history and versioning for the song **Slow Burning Passion Now** (slow-burning-passion-now).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-05T21:43:56.163745 | `v1` | `a439e15ba4ba4d5041c7469e80c6961dadb4f2f1b5a979176c7a72f78664aeb0` | `ccbe2a7252fa18a8fe5f65cd12387a456c4f50de533be033a4400845695e025a` | `2026-06-05_slow-burning-passion-now-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
