@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/slow-burning-passion-now/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Slow Burning Passion Now](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/slow-burning-passion-now/) |
+| **Get License** | [Request Licensing for Slow Burning Passion Now](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/slow-burning-passion-now/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> The coffee's gone cold but the fire is bright
+> I'm pulling you close in the fading light
+> We've got nowhere to be and nothing to prove
+> Just finding my peace in the way that you move
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
